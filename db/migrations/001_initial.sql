@@ -1,0 +1,1 @@
+-- Use db/init.sql for Docker bootstrap. This marker identifies the first schema version.

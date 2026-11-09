@@ -1,0 +1,7 @@
+node_modules/
+.env
+deploy.env
+dist/
+.superpowers/
+output/
+*.log
